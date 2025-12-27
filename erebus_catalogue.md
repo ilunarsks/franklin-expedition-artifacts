@@ -23,13 +23,6 @@
 - **Material**: Earthenware.
 - **Condition**: Intact, some marine growth.
 
-### 2024-ER-045
-- **Description**: Tin sextant case, heavily corroded, hinge intact.
-- **Location Found**: Officer's Quarters, near the stern, beneath a collapsed deck beam.
-- **Date of Recovery**: July 15, 2024
-- **Material**: Tin.
-- **Condition**: Heavily corroded, hinge intact.
-
 ### 2024-ER-046
 - **Description**: Iron spike, square shank.
 - **Location Found**: Hull planking, aft section.
