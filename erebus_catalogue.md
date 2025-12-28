@@ -27,7 +27,7 @@
 - **Description**: Tin sextant case, heavily corroded, hinge intact.
 - **Location Found**: Officer's Quarters, near the stern, beneath a collapsed deck beam.
 - **Date of Recovery**: July 15, 2024
-- **Material**: Tin
+- **Material**: Tin (possible copper alloy, requires lab analysis)
 - **Condition**: Heavily corroded, hinge intact.
 
 ### 2024-ER-046
